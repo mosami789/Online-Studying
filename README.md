@@ -1,7 +1,7 @@
 ﻿# Online-Studying
 
 For Student Login
-URL : http://localhost/OnlineStudying2/home.php?page=login
+URL : http://localhost/OnlineStudying2/home.php?page=login <br>
 Email : cf.egypt7849@gmail.com
 Pass : MoSami
 
